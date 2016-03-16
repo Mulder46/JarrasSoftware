@@ -11,7 +11,9 @@
 		this.capacidad=capacidadInicial;
 	}
 //  metodos
-              1
+              public int capacidad(){
+		return this.capacidad;
+	}
               2
               3
 
