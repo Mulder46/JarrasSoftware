@@ -20,6 +20,10 @@
 				j.cantidad--;
 				} 
 			  }
+			  
+			  public String toString(){
+				  return ("("+this.capacidad+","+this.cantidad+")");
+				}
 
         public void metodoComunitario(){ 
 // Comentario incluido para pruebas 
